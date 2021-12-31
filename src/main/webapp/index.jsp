@@ -1,5 +1,5 @@
 <html>
 	<body>
-		<h1 style="color:Red;">Welcome to Car Rentals App!</h1>
+		<h1 style="color:Indigo;">Welcome to Car Rentals App!</h1>
 	</body>
 </html>
